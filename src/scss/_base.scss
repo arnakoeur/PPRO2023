@@ -17,6 +17,10 @@
 
 html {
   font-size: 16px;
+  overscroll-behavior-y: none;
+  overflow-y: scroll;
+  overscroll-behavior-x: none;
+  overflow-x: scroll;
 }
 
 body {
