@@ -9,10 +9,14 @@
   <body>
     <header>
       <nav>
-        <div class="container">
-          <div class="row">
+        <div class="container-fluid px-0">
+          <div class="row g-0">
             <div class="col-4">
-              <img src="./img/eikonica.svg" alt="logo du festival eikonica" />
+              <img
+                class="l-logo-title"
+                src="./img/eikonica.svg"
+                alt="logo du festival eikonica"
+              />
             </div>
             <div class="col-4">
               <a href="#">Présentation</a>
@@ -21,37 +25,107 @@
             </div>
             <div class="col-2">
               <a href="#">FR/DE</a>
-              <img
-                src="./img/burger-menu.svg"
-                alt="barres d'ouverture du menu"
-              />
+              <a href="#"
+                ><img
+                  src="img/burger-menu.svg"
+                  alt="barres d'ouverture du menu"
+              /></a>
             </div>
           </div>
         </div>
       </nav>
-      <div class="container">
-        <div class="row">
+      <div class="container-fluid px-0">
+        <div class="row g-0">
           <div class="col-9">
             <h1>Festival des arts numeriques</h1>
           </div>
           <div class="col-3">
             <img
+              class="presentation-round-title"
               src="img/round-title.svg"
               alt="titre stylisé du festival des arts numériques"
             />
           </div>
           <div class="col-6">
-            <img src="img/dot-title.svg" alt="" />
+            <img class="presentation-dots" src="img/dot-title.svg" alt="" />
           </div>
           <div class="col-3">
             <p>13-15 octobre</p>
           </div>
           <div class="col-3">
-            <img src="img/arrow-title.svg" alt="fleches" />
+            <img class="" src="img/arrow-title.svg" alt="fleches" />
           </div>
         </div>
       </div>
     </header>
+    <main>
+      <div class="container-fluid px-0">
+        <div class="presentation">
+          <div class="row g-0">
+            <div class="col-7">
+              <h2>qui sommes nous?</h2>
+              <p>
+                Le festival d'arts numériques eikonica de Fribourg est un
+                événement incontournable pour les passionnés de nouvelles
+                technologies, d'art contemporain et les curieux. Du 13 au 15
+                octobre, ce festival vous offre une occasion unique d'explorer
+                une large gamme d'œuvres numériques, allant de l'animation à la
+                réalité virtuelle en passant par les installations interactives.
+              </p>
+            </div>
+            <div class="col-5">
+              <img src="img/presentation-asset.svg" alt="" />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container-fluid px-0">
+        <div class="showreel">
+          <div class="row g-0">
+            <div class="col-5">
+              <p class="showreel-title">SHOWREEL</p>
+              <img src="img/dot-showreel.svg" alt="" />
+            </div>
+            <div class="col-7">
+              <video autoplay loop muted>
+                <source src="img/showreel-test.mp4" type="video/mp4" />
+              </video>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container-fluid px-0">
+        <div class="row g-0">
+          <div class="col-12">
+            <h2>evenements</h2>
+            <img src="img/dot-event.svg" alt="" />
+          </div>
+          <div class="col-6">
+            <div class="evenements-korridor">
+              <p class="evenements-title">
+                VERNISSAGE DES EXPOSITIONS KORRIDOR
+              </p>
+              <p class="evenements-undertitle">J1 - VEDNREDI 13 OCOTBRE 2023</p>
+              <p class="evenements-text">
+                Le vernissage des expositions sera l'occasion pour les
+                participants de découvrir les œuvres d'art numérique présentées
+                dans le cadre du festival. Les artistes seront présents pour
+                dévoiler leurs travaux et répondre aux questions des visiteurs.
+              </p>
+              <div class="evenements-button">
+                <a href="#">EN SAVOIR PLUS</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-6">
+            <img
+              src="img/event-1.webp"
+              alt="photo d'une oeuvre de l'exposition Korridor"
+            />
+          </div>
+        </div>
+      </div>
+    </main>
 
     <script src="js/main.js" type="module"></script>
   </body>
