@@ -5,13 +5,19 @@
     <title>eikon parcel starter</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="scss/main.scss" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Archivo:wght@100;400&display=swap"
+      rel="stylesheet"
+    />
   </head>
   <body>
     <header>
-      <nav>
+      <div class="l-navigation">
         <div class="container-fluid px-0">
-          <div class="row g-0">
-            <div class="col-4">
+          <div class="row g-0 justify-content-between">
+            <div class="col-2">
               <img
                 class="l-logo-title"
                 src="./img/eikonica.svg"
@@ -19,48 +25,58 @@
               />
             </div>
             <div class="col-4">
-              <a href="#">Présentation</a>
-              <a href="#">événements</a>
-              <a href="#">réservez</a>
+              <nav class="l-link">
+                <a href="#presentation">Présentation</a>
+                <a href="#events">événements</a>
+                <a href="#tickets">réservez</a>
+              </nav>
             </div>
             <div class="col-2">
-              <a href="#">FR/DE</a>
-              <a href="#"
-                ><img
-                  src="img/burger-menu.svg"
-                  alt="barres d'ouverture du menu"
-              /></a>
+              <div class="l-menu">
+                <a class="l-language" href="#">FR/DE</a>
+                <a href="#"
+                  ><img
+                    src="img/burger-menu.svg"
+                    alt="barres d'ouverture du menu"
+                /></a>
+              </div>
             </div>
           </div>
         </div>
-      </nav>
-      <div class="container-fluid px-0">
-        <div class="row g-0">
-          <div class="col-9">
-            <h1>Festival des arts numeriques</h1>
-          </div>
-          <div class="col-3">
-            <img
-              class="presentation-round-title"
-              src="img/round-title.svg"
-              alt="titre stylisé du festival des arts numériques"
-            />
-          </div>
-          <div class="col-6">
-            <img class="presentation-dots" src="img/dot-title.svg" alt="" />
-          </div>
-          <div class="col-3">
-            <p>13-15 octobre</p>
-          </div>
-          <div class="col-3">
-            <img class="" src="img/arrow-title.svg" alt="fleches" />
+      </div>
+      <div class="l-intro">
+        <div class="container-fluid px-0">
+          <div class="row g-0">
+            <div class="col-9">
+              <h1 class="intro-title">Festival des arts numeriques</h1>
+            </div>
+            <div class="col-3">
+              <img
+                class="intro-round-title"
+                src="img/round-title.svg"
+                alt="titre stylisé du festival des arts numériques"
+              />
+            </div>
+            <div class="col-6">
+              <img class="intro-dots" src="img/dot-title.svg" alt="" />
+            </div>
+            <div class="col-3">
+              <p class="intro-date">13-15 octobre</p>
+            </div>
+            <div class="col-3">
+              <img
+                class="intro-arrows"
+                src="img/arrow-title.svg"
+                alt="fleches"
+              />
+            </div>
           </div>
         </div>
       </div>
     </header>
     <main>
       <div class="container-fluid px-0">
-        <div class="presentation">
+        <div id="presentation" class="presentation">
           <div class="row g-0">
             <div class="col-7">
               <h2>qui sommes nous?</h2>
@@ -95,7 +111,7 @@
         </div>
       </div>
       <div class="container-fluid px-0">
-        <section class="event">
+        <section id="events" class="event">
           <div class="row g-0">
             <div class="col-12">
               <h2>evenements</h2>
@@ -170,7 +186,7 @@
           </div>
         </section>
       </div>
-      <div class="tickets">
+      <div id="tickets" class="tickets">
         <img src="img/arrow-right-tickets.svg" alt="" />
         <a class="tickets-title" href="#">RESERVEZ VOS BILLETS</a>
         <img src="img/arrow-left-tickets.svg" alt="" />
@@ -192,14 +208,21 @@
                 <a href="">Copyright(© 2023 eikonica. Tous droits réservés.)</a>
               </div>
             </div>
-          <div class="col-4">
-            <div class="l-partners">
-              <p>PARTENAIRES</p>
-              <div class="l-partners-logo">
-                <img src="img/partenaire-loterie.svg" alt="logo de la loterie romande">
-                <img src="img/partenaire-eikon.svg" alt="logo de eikon">
-                <img src="img/partenaire-fribourg.svg" alt="logo de l'etat de fribourg">
-                <img src="img/partenaire-frison.svg" alt="logo de frison">
+            <div class="col-4">
+              <div class="l-partners">
+                <p>PARTENAIRES</p>
+                <div class="l-partners-logo">
+                  <img
+                    src="img/partenaire-loterie.svg"
+                    alt="logo de la loterie romande"
+                  />
+                  <img src="img/partenaire-eikon.svg" alt="logo de eikon" />
+                  <img
+                    src="img/partenaire-fribourg.svg"
+                    alt="logo de l'etat de fribourg"
+                  />
+                  <img src="img/partenaire-frison.svg" alt="logo de frison" />
+                </div>
               </div>
             </div>
           </div>

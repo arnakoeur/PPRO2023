@@ -1,0 +1,38 @@
+.intro-title {
+  color: white;
+  font-family: Teletactile;
+  font-weight: 100;
+  font-size: 150px;
+  line-height: 140px;
+  padding: 210px 0px 50px 54px;
+}
+
+.intro-round-title {
+  transform-origin: center;
+  animation: changeRotation 20s linear infinite;
+}
+
+@keyframes changeRotation {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.intro-dots {
+  padding-left: 63px;
+}
+
+.intro-date {
+  color: #b8ff2b;
+  font-family: "Archivo", sans-serif;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+
+.intro-arrows {
+  padding: 90px 63px 185px 43px;
+}

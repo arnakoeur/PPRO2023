@@ -1,265 +1,265 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="435px" height="435px" viewBox="0 0 435 435" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Group 4</title>
+<svg width="434px" height="434px" viewBox="0 0 434 434" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>round-title</title>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Extra-Large" transform="translate(-1421.000000, -216.000000)">
+        <g id="Extra-Large" transform="translate(-1422.000000, -217.000000)" fill-rule="nonzero">
             <g id="HEADER" transform="translate(0.000000, 7.000000)">
-                <g id="Group-4" transform="translate(1421.843325, 209.795546)">
-                    <g id="TEXT-ROND" fill="#FFFFFF" fill-rule="nonzero">
-                        <g id="Group" transform="translate(73.097359, 79.085179) rotate(-46.310000) translate(-73.097359, -79.085179) translate(64.097359, 61.585179)" font-family="Helvetica" font-size="28.87" font-weight="normal">
-                            <text id="F">
-                                <tspan x="-3.59178657e-15" y="28">F</tspan>
+                <g id="round-title" transform="translate(1422.504109, 210.507544)">
+                    <g id="Group" transform="translate(0.000000, -0.000000)" fill="#FFFFFF">
+                        <g transform="translate(72.819805, 78.962676) rotate(-46.310000) translate(-72.819805, -78.962676) translate(63.819805, 61.462676)" font-family="Helvetica" font-size="28.87" font-weight="normal" id="F">
+                            <text>
+                                <tspan x="8.7915822e-13" y="28">F</tspan>
                             </text>
                         </g>
-                        <g id="Group" transform="translate(91.766947, 61.872111) rotate(-39.210000) translate(-91.766947, -61.872111) translate(83.266947, 44.372111)" font-family="Helvetica" font-size="28.87" font-weight="normal">
-                            <text id="e">
-                                <tspan x="-1.45594424e-13" y="28">e</tspan>
+                        <g transform="translate(91.501561, 61.783923) rotate(-39.210000) translate(-91.501561, -61.783923) translate(83.001561, 44.283923)" font-family="Helvetica" font-size="28.87" font-weight="normal" id="e">
+                            <text>
+                                <tspan x="5.66400906e-15" y="28">e</tspan>
                             </text>
                         </g>
-                        <g id="Group" transform="translate(110.354051, 48.451474) rotate(-32.420000) translate(-110.354051, -48.451474) translate(102.854051, 30.951474)" font-family="Helvetica" font-size="28.87" font-weight="normal">
-                            <text id="s">
-                                <tspan x="-1.24630886e-13" y="28">s</tspan>
+                        <g transform="translate(110.152842, 48.390041) rotate(-32.420000) translate(-110.152842, -48.390041) translate(102.652842, 30.890041)" font-family="Helvetica" font-size="28.87" font-weight="normal" id="s">
+                            <text>
+                                <tspan x="-5.59457137e-14" y="28">s</tspan>
                             </text>
                         </g>
-                        <g id="Group" transform="translate(125.845314, 39.433390) rotate(-27.210000) translate(-125.845314, -39.433390) translate(121.345314, 21.933390)" font-family="Helvetica" font-size="28.87" font-weight="normal">
-                            <text id="t">
-                                <tspan x="-1.04070733e-13" y="28">t</tspan>
+                        <g transform="translate(125.922199, 39.389935) rotate(-27.210000) translate(-125.922199, -39.389935) translate(121.422199, 21.889935)" font-family="Helvetica" font-size="28.87" font-weight="normal" id="t">
+                            <text>
+                                <tspan x="-3.36911613e-13" y="28">t</tspan>
                             </text>
                         </g>
-                        <g id="Group" transform="translate(136.341871, 34.393411) rotate(-23.840000) translate(-136.341871, -34.393411) translate(132.841871, 16.893411)" font-family="Helvetica" font-size="28.87" font-weight="normal">
-                            <text id="i">
-                                <tspan x="1.28540231e-13" y="28">i</tspan>
+                        <g transform="translate(136.500122, 34.360004) rotate(-23.840000) translate(-136.500122, -34.360004) translate(133.000122, 16.860004)" font-family="Helvetica" font-size="28.87" font-weight="normal" id="i">
+                            <text>
+                                <tspan x="1.44487911e-13" y="28">i</tspan>
                             </text>
                         </g>
-                        <g id="Group" transform="translate(151.907532, 28.468859) rotate(-19.120000) translate(-151.907532, -28.468859) translate(144.407532, 10.968859)" font-family="Helvetica" font-size="28.87" font-weight="normal">
-                            <text id="v">
-                                <tspan x="-6.19827922e-14" y="28">v</tspan>
+                        <g transform="translate(151.618036, 28.447262) rotate(-19.120000) translate(-151.618036, -28.447262) translate(144.118036, 10.947262)" font-family="Helvetica" font-size="28.87" font-weight="normal" id="v">
+                            <text>
+                                <tspan x="-2.96896098e-14" y="28">v</tspan>
                             </text>
                         </g>
-                        <g id="Group" transform="translate(174.784400, 22.100859) rotate(-12.440000) translate(-174.784400, -22.100859) translate(166.284400, 4.600859)" font-family="Helvetica" font-size="28.87" font-weight="normal">
-                            <text id="a">
-                                <tspan x="-2.4476558e-13" y="28">a</tspan>
+                        <g transform="translate(174.342629, 22.091957) rotate(-12.440000) translate(-174.342629, -22.091957) translate(165.842629, 4.591957)" font-family="Helvetica" font-size="28.87" font-weight="normal" id="a">
+                            <text>
+                                <tspan x="-5.47831315e-13" y="28">a</tspan>
                             </text>
                         </g>
-                        <g id="Group" transform="translate(190.720679, 19.277151) rotate(-7.460000) translate(-190.720679, -19.277151) translate(187.220679, 1.777151)" font-family="Helvetica" font-size="28.87" font-weight="normal">
-                            <text id="l">
-                                <tspan x="-3.14277498e-14" y="28">l</tspan>
+                        <g transform="translate(190.763393, 19.273879) rotate(-7.460000) translate(-190.763393, -19.273879) translate(187.263393, 1.773879)" font-family="Helvetica" font-size="28.87" font-weight="normal" id="l">
+                            <text>
+                                <tspan x="1.94580954e-12" y="28">l</tspan>
                             </text>
                         </g>
-                        <g id="Group" transform="translate(218.574128, 17.635657) rotate(0.930000) translate(-218.574128, -17.635657) translate(210.074128, 0.135657)" font-family="Helvetica" font-size="28.87" font-weight="normal">
-                            <text id="d">
-                                <tspan x="-4.42086202e-14" y="28">d</tspan>
+                        <g transform="translate(218.039317, 17.635657) rotate(0.930000) translate(-218.039317, -17.635657) translate(209.539317, 0.135657)" font-family="Helvetica" font-size="28.87" font-weight="normal" id="d">
+                            <text>
+                                <tspan x="5.7845245e-13" y="28">d</tspan>
                             </text>
                         </g>
-                        <g id="Group" transform="translate(243.660493, 19.402436) rotate(7.380000) translate(-243.660493, -19.402436) translate(235.160493, 1.902436)" font-family="Helvetica" font-size="28.87" font-weight="normal">
-                            <text id="e">
-                                <tspan x="1.55934585e-13" y="28">e</tspan>
+                        <g transform="translate(243.072382, 19.398914) rotate(7.380000) translate(-243.072382, -19.398914) translate(234.572382, 1.898914)" font-family="Helvetica" font-size="28.87" font-weight="normal" id="e">
+                            <text>
+                                <tspan x="5.9373794e-13" y="28">e</tspan>
                             </text>
                         </g>
-                        <g id="Group" transform="translate(266.135924, 23.777236) rotate(14.220000) translate(-266.135924, -23.777236) translate(258.635924, 6.277236)" font-family="Helvetica" font-size="28.87" font-weight="normal">
-                            <text id="s">
-                                <tspan x="8.51729295e-14" y="28">s</tspan>
+                        <g transform="translate(265.603729, 23.764992) rotate(14.220000) translate(-265.603729, -23.764992) translate(258.103729, 6.264992)" font-family="Helvetica" font-size="28.87" font-weight="normal" id="s">
+                            <text>
+                                <tspan x="1.23545028e-12" y="28">s</tspan>
                             </text>
                         </g>
-                        <g id="Group" transform="translate(298.058854, 34.832380) rotate(23.770000) translate(-298.058854, -34.832380) translate(289.558854, 17.332380)" font-family="Helvetica" font-size="28.87" font-weight="normal">
-                            <text id="a">
-                                <tspan x="2.2312576e-13" y="28">a</tspan>
+                        <g transform="translate(297.355164, 34.798097) rotate(23.770000) translate(-297.355164, -34.798097) translate(288.855164, 17.298097)" font-family="Helvetica" font-size="28.87" font-weight="normal" id="a">
+                            <text>
+                                <tspan x="-5.42669551e-13" y="28">a</tspan>
                             </text>
                         </g>
-                        <g id="Group" transform="translate(314.679048, 43.397966) rotate(29.440000) translate(-314.679048, -43.397966) translate(309.679048, 25.897966)" font-family="Helvetica" font-size="28.87" font-weight="normal">
-                            <text id="r">
-                                <tspan x="-8.3924588e-14" y="28">r</tspan>
+                        <g transform="translate(314.302887, 43.346607) rotate(29.440000) translate(-314.302887, -43.346607) translate(309.302887, 25.846607)" font-family="Helvetica" font-size="28.87" font-weight="normal" id="r">
+                            <text>
+                                <tspan x="6.9689657e-13" y="28">r</tspan>
                             </text>
                         </g>
-                        <g id="Group" transform="translate(326.599764, 50.752267) rotate(33.480000) translate(-326.599764, -50.752267) translate(322.099764, 33.252267)" font-family="Helvetica" font-size="28.87" font-weight="normal">
-                            <text id="t">
-                                <tspan x="-6.55854942e-14" y="28">t</tspan>
+                        <g transform="translate(326.250110, 50.686248) rotate(33.480000) translate(-326.250110, -50.686248) translate(321.750110, 33.186248)" font-family="Helvetica" font-size="28.87" font-weight="normal" id="t">
+                            <text>
+                                <tspan x="-9.57196746e-13" y="28">t</tspan>
                             </text>
                         </g>
-                        <g id="Group" transform="translate(341.440428, 61.381380) rotate(38.680000) translate(-341.440428, -61.381380) translate(333.940428, 43.881380)" font-family="Helvetica" font-size="28.87" font-weight="normal">
-                            <text id="s">
-                                <tspan x="-3.59335744e-14" y="28">s</tspan>
+                        <g transform="translate(340.748235, 61.294171) rotate(38.680000) translate(-340.748235, -61.294171) translate(333.248235, 43.794171)" font-family="Helvetica" font-size="28.87" font-weight="normal" id="s">
+                            <text>
+                                <tspan x="3.67110389e-13" y="28">s</tspan>
                             </text>
                         </g>
-                        <g id="Group" transform="translate(365.958111, 84.586079) rotate(48.220000) translate(-365.958111, -84.586079) translate(357.458111, 67.086079)" font-family="Helvetica" font-size="28.87" font-weight="normal">
-                            <text id="n">
-                                <tspan x="-6.21327593e-14" y="28">n</tspan>
+                        <g transform="translate(365.110157, 84.452610) rotate(48.220000) translate(-365.110157, -84.452610) translate(356.610157, 66.952610)" font-family="Helvetica" font-size="28.87" font-weight="normal" id="n">
+                            <text>
+                                <tspan x="2.98020795e-13" y="28">n</tspan>
                             </text>
                         </g>
-                        <g id="Group" transform="translate(381.459113, 104.413779) rotate(55.430000) translate(-381.459113, -104.413779) translate(372.959113, 86.913779)" font-family="Helvetica" font-size="28.87" font-weight="normal">
-                            <text id="u">
-                                <tspan x="4.63022563e-15" y="28">u</tspan>
+                        <g transform="translate(380.578224, 104.240782) rotate(55.430000) translate(-380.578224, -104.240782) translate(372.078224, 86.740782)" font-family="Helvetica" font-size="28.87" font-weight="normal" id="u">
+                            <text>
+                                <tspan x="7.81601526e-13" y="28">u</tspan>
                             </text>
                         </g>
-                        <g id="Group" transform="translate(397.512095, 131.620534) rotate(64.600000) translate(-397.512095, -131.620534) translate(385.012095, 114.120534)" font-family="Helvetica" font-size="28.87" font-weight="normal">
-                            <text id="m">
-                                <tspan x="-2.22434509e-14" y="28">m</tspan>
+                        <g transform="translate(396.182423, 131.393299) rotate(64.600000) translate(-396.182423, -131.393299) translate(383.682423, 113.893299)" font-family="Helvetica" font-size="28.87" font-weight="normal" id="m">
+                            <text>
+                                <tspan x="-8.28658864e-13" y="28">m</tspan>
                             </text>
                         </g>
-                        <g id="Group" transform="translate(408.482012, 161.770250) rotate(73.720000) translate(-408.482012, -161.770250) translate(399.982012, 144.270250)" font-family="Helvetica" font-size="28.87" font-weight="normal">
-                            <text id="é">
-                                <tspan x="3.61976178e-14" y="28">é</tspan>
+                        <g transform="translate(407.543709, 161.482910) rotate(73.720000) translate(-407.543709, -161.482910) translate(399.043709, 143.982910)" font-family="Helvetica" font-size="28.87" font-weight="normal" id="é">
+                            <text>
+                                <tspan x="1.91816011e-13" y="28">é</tspan>
                             </text>
                         </g>
-                        <g id="Group" transform="translate(412.510943, 180.431477) rotate(79.430000) translate(-412.510943, -180.431477) translate(407.510943, 162.931477)" font-family="Helvetica" font-size="28.87" font-weight="normal">
-                            <text id="r">
-                                <tspan x="-6.88489692e-14" y="28">r</tspan>
+                        <g transform="translate(411.926921, 180.106935) rotate(79.430000) translate(-411.926921, -180.106935) translate(406.926921, 162.606935)" font-family="Helvetica" font-size="28.87" font-weight="normal" id="r">
+                            <text>
+                                <tspan x="-3.40642996e-14" y="28">r</tspan>
                             </text>
                         </g>
-                        <g id="Group" transform="translate(414.238721, 192.820761) rotate(83.030000) translate(-414.238721, -192.820761) translate(410.738721, 175.320761)" font-family="Helvetica" font-size="28.87" font-weight="normal">
-                            <text id="i">
-                                <tspan x="1.85622456e-14" y="28">i</tspan>
+                        <g transform="translate(413.806531, 192.471520) rotate(83.030000) translate(-413.806531, -192.471520) translate(410.306531, 174.971520)" font-family="Helvetica" font-size="28.87" font-weight="normal" id="i">
+                            <text>
+                                <tspan x="-7.51847192e-14" y="28">i</tspan>
                             </text>
                         </g>
-                        <g id="Group" transform="translate(416.108248, 210.596496) rotate(88.100000) translate(-416.108248, -210.596496) translate(407.608248, 193.096496)" font-family="Helvetica" font-size="28.87" font-weight="normal">
-                            <text id="q">
-                                <tspan x="8.75337512e-14" y="28">q</tspan>
+                        <g transform="translate(415.153742, 210.211818) rotate(88.100000) translate(-415.153742, -210.211818) translate(406.653742, 192.711818)" font-family="Helvetica" font-size="28.87" font-weight="normal" id="q">
+                            <text>
+                                <tspan x="-5.37422685e-14" y="28">q</tspan>
                             </text>
                         </g>
-                        <g id="Group" transform="translate(415.306888, 235.906556) rotate(95.260000) translate(-415.306888, -235.906556) translate(406.806888, 218.406556)" font-family="Helvetica" font-size="28.87" font-weight="normal">
-                            <text id="u">
-                                <tspan x="7.28104726e-14" y="28">u</tspan>
+                        <g transform="translate(414.354084, 235.471422) rotate(95.260000) translate(-414.354084, -235.471422) translate(405.854084, 217.971422)" font-family="Helvetica" font-size="28.87" font-weight="normal" id="u">
+                            <text>
+                                <tspan x="1.43440792e-14" y="28">u</tspan>
                             </text>
                         </g>
-                        <g id="Group" transform="translate(411.355188, 260.745724) rotate(102.420000) translate(-411.355188, -260.745724) translate(402.855188, 243.245724)" font-family="Helvetica" font-size="28.87" font-weight="normal">
-                            <text id="e">
-                                <tspan x="-3.73465594e-14" y="28">e</tspan>
+                        <g transform="translate(410.410780, 260.261071) rotate(102.420000) translate(-410.410780, -260.261071) translate(401.910780, 242.761071)" font-family="Helvetica" font-size="28.87" font-weight="normal" id="e">
+                            <text>
+                                <tspan x="5.02772334e-13" y="28">e</tspan>
                             </text>
                         </g>
-                        <g id="Group" transform="translate(404.906718, 282.873142) rotate(109.280000) translate(-404.906718, -282.873142) translate(397.406718, 265.373142)" font-family="Helvetica" font-size="28.87" font-weight="normal">
-                            <text id="s">
-                                <tspan x="1.82083153e-14" y="28">s</tspan>
+                        <g transform="translate(404.079680, 282.344377) rotate(109.280000) translate(-404.079680, -282.344377) translate(396.579680, 264.844377)" font-family="Helvetica" font-size="28.87" font-weight="normal" id="s">
+                            <text>
+                                <tspan x="4.64336162e-13" y="28">s</tspan>
                             </text>
                         </g>
-                        <g id="Group" transform="translate(371.905739, 342.526645) rotate(129.130000) translate(-371.905739, -342.526645) translate(360.405739, 325.026645)" font-family="Helvetica" font-size="28.87" font-weight="normal">
-                            <text id="G">
-                                <tspan x="-1.14739081e-13" y="28">G</tspan>
+                        <g transform="translate(373.164641, 338.820125) rotate(127.940000) translate(-373.164641, -338.820125) translate(364.164641, 321.320125)" font-family="Helvetica" font-size="28.87" font-weight="normal" id="F">
+                            <text>
+                                <tspan x="3.33522307e-13" y="28">F</tspan>
                             </text>
                         </g>
-                        <g id="Group" transform="translate(353.899511, 361.244708) rotate(136.350000) translate(-353.899511, -361.244708) translate(348.899511, 343.744708)" font-family="Helvetica" font-size="28.87" font-weight="normal">
-                            <text id="r">
-                                <tspan x="5.90150082e-14" y="28">r</tspan>
+                        <g transform="translate(359.282729, 354.765219) rotate(133.990000) translate(-359.282729, -354.765219) translate(354.282729, 337.265219)" font-family="Helvetica" font-size="28.87" font-weight="normal" id="r">
+                            <text>
+                                <tspan x="-7.86541909e-14" y="28">r</tspan>
                             </text>
                         </g>
-                        <g id="Group" transform="translate(339.237576, 374.180913) rotate(141.840000) translate(-339.237576, -374.180913) translate(330.737576, 356.680913)" font-family="Helvetica" font-size="28.87" font-weight="normal">
-                            <text id="a">
-                                <tspan x="3.96052239e-14" y="28">a</tspan>
+                        <g transform="translate(350.304575, 363.481785) rotate(137.550000) translate(-350.304575, -363.481785) translate(346.804575, 345.981785)" font-family="Helvetica" font-size="28.87" font-weight="normal" id="i">
+                            <text>
+                                <tspan x="-1.60819121e-12" y="28">i</tspan>
                             </text>
                         </g>
-                        <g id="Group" transform="translate(319.114675, 387.966455) rotate(148.980000) translate(-319.114675, -387.966455) translate(310.614675, 370.466455)" font-family="Helvetica" font-size="28.87" font-weight="normal">
-                            <text id="p">
-                                <tspan x="4.23444536e-14" y="28">p</tspan>
+                        <g transform="translate(336.628874, 374.872498) rotate(142.630000) translate(-336.628874, -374.872498) translate(328.128874, 357.372498)" font-family="Helvetica" font-size="28.87" font-weight="normal" id="b">
+                            <text>
+                                <tspan x="-1.24820091e-12" y="28">b</tspan>
                             </text>
                         </g>
-                        <g id="Group" transform="translate(296.515144, 399.587256) rotate(156.280000) translate(-296.515144, -399.587256) translate(288.015144, 382.087256)" font-family="Helvetica" font-size="28.87" font-weight="normal">
-                            <text id="h">
-                                <tspan x="5.43534392e-14" y="28">h</tspan>
+                        <g transform="translate(315.544283, 388.883636) rotate(149.940000) translate(-315.544283, -388.883636) translate(307.044283, 371.383636)" font-family="Helvetica" font-size="28.87" font-weight="normal" id="o">
+                            <text>
+                                <tspan x="6.08614684e-13" y="28">o</tspan>
                             </text>
                         </g>
-                        <g id="Group" transform="translate(279.704111, 405.849064) rotate(161.390000) translate(-279.704111, -405.849064) translate(276.204111, 388.349064)" font-family="Helvetica" font-size="28.87" font-weight="normal">
-                            <text id="i">
-                                <tspan x="1.01789728e-13" y="28">i</tspan>
+                        <g transform="translate(292.731570, 400.142039) rotate(157.250000) translate(-292.731570, -400.142039) translate(284.231570, 382.642039)" font-family="Helvetica" font-size="28.87" font-weight="normal" id="u">
+                            <text>
+                                <tspan x="1.37509175e-12" y="28">u</tspan>
                             </text>
                         </g>
-                        <g id="Group" transform="translate(264.453646, 410.373970) rotate(166.220000) translate(-264.453646, -410.373970) translate(256.953646, 392.873970)" font-family="Helvetica" font-size="28.87" font-weight="normal">
-                            <text id="c">
-                                <tspan x="1.92733604e-14" y="28">c</tspan>
+                        <g transform="translate(274.151427, 406.799681) rotate(163.060000) translate(-274.151427, -406.799681) translate(269.151427, 389.299681)" font-family="Helvetica" font-size="28.87" font-weight="normal" id="r">
+                            <text>
+                                <tspan x="-7.16931536e-13" y="28">r</tspan>
                             </text>
                         </g>
-                        <g id="Group" transform="translate(230.904514, 415.625137) rotate(175.910000) translate(-230.904514, -415.625137) translate(222.404514, 398.125137)" font-family="Helvetica" font-size="28.87" font-weight="normal">
-                            <text id="d">
-                                <tspan x="-5.6577257e-14" y="28">d</tspan>
+                        <g transform="translate(254.498548, 411.673182) rotate(168.820000) translate(-254.498548, -411.673182) translate(245.998548, 394.173182)" font-family="Helvetica" font-size="28.87" font-weight="normal" id="g">
+                            <text>
+                                <tspan x="-2.10917937e-12" y="28">g</tspan>
                             </text>
                         </g>
-                        <g id="Group" transform="translate(205.524540, 415.792722) rotate(-177.010000) translate(-205.524540, -415.792722) translate(197.024540, 398.292722)" font-family="Helvetica" font-size="28.87" font-weight="normal">
-                            <text id="e">
-                                <tspan x="-7.63639943e-14" y="28">e</tspan>
+                        <g transform="translate(236.075794, 414.346509) rotate(174.180000) translate(-236.075794, -414.346509) translate(231.575794, 396.846509)" font-family="Helvetica" font-size="28.87" font-weight="normal" id=",">
+                            <text>
+                                <tspan x="5.76503357e-13" y="28">,</tspan>
                             </text>
                         </g>
-                        <g id="Group" transform="translate(182.560777, 413.162852) rotate(-170.210000) translate(-182.560777, -413.162852) translate(175.060777, 395.662852)" font-family="Helvetica" font-size="28.87" font-weight="normal">
-                            <text id="s">
-                                <tspan x="-3.03489053e-14" y="28">s</tspan>
+                        <g transform="translate(208.217705, 415.142751) rotate(-178.080000) translate(-208.217705, -415.142751) translate(199.717705, 397.642751)" font-family="Helvetica" font-size="28.87" font-weight="normal" id="1">
+                            <text>
+                                <tspan x="5.19469633e-13" y="28">1</tspan>
                             </text>
                         </g>
-                        <g id="Group" transform="translate(165.928257, 409.647291) rotate(-165.460000) translate(-165.928257, -409.647291) translate(162.428257, 392.147291)" font-family="Helvetica" font-size="28.87" font-weight="normal">
-                            <text id="i">
-                                <tspan x="-2.41850861e-13" y="28">i</tspan>
+                        <g transform="translate(185.038504, 412.838679) rotate(-171.080000) translate(-185.038504, -412.838679) translate(176.538504, 395.338679)" font-family="Helvetica" font-size="28.87" font-weight="normal" id="3">
+                            <text>
+                                <tspan x="-2.09270803e-12" y="28">3</tspan>
                             </text>
                         </g>
-                        <g id="Group" transform="translate(149.415049, 404.364191) rotate(-160.390000) translate(-149.415049, -404.364191) translate(140.915049, 386.864191)" font-family="Helvetica" font-size="28.87" font-weight="normal">
-                            <text id="g">
-                                <tspan x="-9.02315771e-14" y="28">g</tspan>
+                        <g transform="translate(156.312192, 406.057350) rotate(-162.500000) translate(-156.312192, -406.057350) translate(151.312192, 388.557350)" font-family="Helvetica" font-size="28.87" font-weight="normal" id="-">
+                            <text>
+                                <tspan x="3.29434491e-13" y="28">-</tspan>
                             </text>
                         </g>
-                        <g id="Group" transform="translate(126.561148, 394.469468) rotate(-153.140000) translate(-126.561148, -394.469468) translate(118.061148, 376.969468)" font-family="Helvetica" font-size="28.87" font-weight="normal">
-                            <text id="n">
-                                <tspan x="-1.09006584e-13" y="28">n</tspan>
+                        <g transform="translate(128.859249, 395.034251) rotate(-154.250000) translate(-128.859249, -395.034251) translate(120.359249, 377.534251)" font-family="Helvetica" font-size="28.87" font-weight="normal" id="1">
+                            <text>
+                                <tspan x="-2.81387396e-14" y="28">1</tspan>
                             </text>
                         </g>
-                        <g id="Group" transform="translate(103.065046, 380.723295) rotate(-145.380000) translate(-103.065046, -380.723295) translate(99.565046, 363.223295)" font-family="Helvetica" font-size="28.87" font-weight="normal">
-                            <text id="i">
-                                <tspan x="-1.39963541e-13" y="28">i</tspan>
+                        <g transform="translate(108.561250, 383.529481) rotate(-147.210000) translate(-108.561250, -383.529481) translate(100.061250, 366.029481)" font-family="Helvetica" font-size="28.87" font-weight="normal" id="5">
+                            <text>
+                                <tspan x="1.00432581e-12" y="28">5</tspan>
                             </text>
                         </g>
-                        <g id="Group" transform="translate(90.482166, 370.895927) rotate(-140.660000) translate(-90.482166, -370.895927) translate(82.982166, 353.395927)" font-family="Helvetica" font-size="28.87" font-weight="normal">
-                            <text id="s">
-                                <tspan x="3.02585721e-14" y="28">s</tspan>
+                        <g transform="translate(81.112945, 362.149596) rotate(-137.210000) translate(-81.112945, -362.149596) translate(72.612945, 344.649596)" font-family="Helvetica" font-size="28.87" font-weight="normal" id="o">
+                            <text>
+                                <tspan x="-7.05414708e-13" y="28">o</tspan>
                             </text>
                         </g>
-                        <g id="Group" transform="translate(62.852184, 342.638350) rotate(-129.210000) translate(-62.852184, -342.638350) translate(50.352184, 325.138350)" font-family="Helvetica" font-size="28.87" font-weight="normal">
-                            <text id="m">
-                                <tspan x="-1.61197823e-13" y="28">m</tspan>
+                        <g transform="translate(64.601774, 344.844832) rotate(-130.240000) translate(-64.601774, -344.844832) translate(57.101774, 327.344832)" font-family="Helvetica" font-size="28.87" font-weight="normal" id="c">
+                            <text>
+                                <tspan x="-1.26244839e-13" y="28">c</tspan>
                             </text>
                         </g>
-                        <g id="Group" transform="translate(44.798520, 317.388854) rotate(-120.440000) translate(-44.798520, -317.388854) translate(37.298520, 299.888854)" font-family="Helvetica" font-size="28.87" font-weight="normal">
-                            <text id="y">
-                                <tspan x="-1.04025108e-13" y="28">y</tspan>
+                        <g transform="translate(53.304765, 330.169764) rotate(-125.010000) translate(-53.304765, -330.169764) translate(48.804765, 312.669764)" font-family="Helvetica" font-size="28.87" font-weight="normal" id="t">
+                            <text>
+                                <tspan x="1.68878036e-13" y="28">t</tspan>
                             </text>
                         </g>
-                        <g id="Group" transform="translate(30.504599, 287.226413) rotate(-110.820000) translate(-30.504599, -287.226413) translate(22.004599, 269.726413)" font-family="Helvetica" font-size="28.87" font-weight="normal">
-                            <text id="p">
-                                <tspan x="1.52730523e-13" y="28">p</tspan>
+                        <g transform="translate(42.944956, 313.663919) rotate(-119.420000) translate(-42.944956, -313.663919) translate(34.444956, 296.163919)" font-family="Helvetica" font-size="28.87" font-weight="normal" id="o">
+                            <text>
+                                <tspan x="6.60466819e-13" y="28">o</tspan>
                             </text>
                         </g>
-                        <g id="Group" transform="translate(23.079623, 262.970724) rotate(-103.600000) translate(-23.079623, -262.970724) translate(14.579623, 245.470724)" font-family="Helvetica" font-size="28.87" font-weight="normal">
-                            <text id="a">
-                                <tspan x="9.45504433e-14" y="28">a</tspan>
+                        <g transform="translate(31.942224, 290.707785) rotate(-112.070000) translate(-31.942224, -290.707785) translate(23.442224, 273.207785)" font-family="Helvetica" font-size="28.87" font-weight="normal" id="b">
+                            <text>
+                                <tspan x="3.19075884e-13" y="28">b</tspan>
                             </text>
                         </g>
-                        <g id="Group" transform="translate(18.998362, 240.429875) rotate(-96.780000) translate(-18.998362, -240.429875) translate(11.498362, 222.929875)" font-family="Helvetica" font-size="28.87" font-weight="normal">
-                            <text id="s">
-                                <tspan x="-1.31088947e-14" y="28">s</tspan>
+                        <g transform="translate(25.443295, 271.860261) rotate(-106.230000) translate(-25.443295, -271.860261) translate(20.443295, 254.360261)" font-family="Helvetica" font-size="28.87" font-weight="normal" id="r">
+                            <text>
+                                <tspan x="-2.48293377e-13" y="28">r</tspan>
                             </text>
                         </g>
-                        <g id="Group" transform="translate(17.619426, 217.806786) rotate(-90.930000) translate(-17.619426, -217.806786) translate(10.119426, 200.306786)" font-family="Helvetica" font-size="28.87" font-weight="normal">
-                            <text id="s">
-                                <tspan x="-1.04276702e-13" y="28">s</tspan>
+                        <g transform="translate(20.902943, 252.629180) rotate(-100.670000) translate(-20.902943, -252.629180) translate(12.402943, 235.129180)" font-family="Helvetica" font-size="28.87" font-weight="normal" id="e">
+                            <text>
+                                <tspan x="8.13966724e-14" y="28">e</tspan>
                             </text>
                         </g>
-                        <g id="Group" transform="translate(17.827440, 201.027120) rotate(-85.600000) translate(-17.827440, -201.027120) translate(14.327440, 183.527120)" font-family="Helvetica" font-size="28.87" font-weight="normal">
-                            <text id="i">
-                                <tspan x="-2.91774058e-14" y="28">i</tspan>
+                        <g transform="translate(17.635657, 218.964455) rotate(-90.930000) translate(-17.635657, -218.964455) translate(9.135657, 201.464455)" font-family="Helvetica" font-size="28.87" font-weight="normal" id="2">
+                            <text>
+                                <tspan x="-1.07974662e-14" y="28">2</tspan>
                             </text>
                         </g>
-                        <g id="Group" transform="translate(20.526581, 183.364334) rotate(-80.500000) translate(-20.526581, -183.364334) translate(12.026581, 165.864334)" font-family="Helvetica" font-size="28.87" font-weight="normal">
-                            <text id="o">
-                                <tspan x="-3.7591575e-14" y="28">o</tspan>
+                        <g transform="translate(18.914597, 193.671193) rotate(-83.580000) translate(-18.914597, -193.671193) translate(10.414597, 176.171193)" font-family="Helvetica" font-size="28.87" font-weight="normal" id="0">
+                            <text>
+                                <tspan x="1.44881976e-13" y="28">0</tspan>
                             </text>
                         </g>
-                        <g id="Group" transform="translate(26.402412, 158.527628) rotate(-73.160000) translate(-26.402412, -158.527628) translate(17.902412, 141.027628)" font-family="Helvetica" font-size="28.87" font-weight="normal">
-                            <text id="n">
-                                <tspan x="4.91294561e-14" y="28">n</tspan>
+                        <g transform="translate(23.436213, 168.506423) rotate(-76.220000) translate(-23.436213, -168.506423) translate(14.936213, 151.006423)" font-family="Helvetica" font-size="28.87" font-weight="normal" id="2">
+                            <text>
+                                <tspan x="-1.70774796e-13" y="28">2</tspan>
                             </text>
                         </g>
-                        <g id="Group" transform="translate(34.567258, 136.333165) rotate(-66.200000) translate(-34.567258, -136.333165) translate(27.067258, 118.833165)" font-family="Helvetica" font-size="28.87" font-weight="normal">
-                            <text id="s">
-                                <tspan x="5.74534188e-15" y="28">s</tspan>
+                        <g transform="translate(31.104356, 144.338649) rotate(-68.820000) translate(-31.104356, -144.338649) translate(22.604356, 126.838649)" font-family="Helvetica" font-size="28.87" font-weight="normal" id="3">
+                            <text>
+                                <tspan x="9.61029441e-13" y="28">3</tspan>
                             </text>
                         </g>
-                        <path d="M394.156675,298.204454 C390.544075,306.589181 387.801447,311.476454 383.156675,319.204454" id="Path"></path>
-                        <path d="M47.1566751,116.204454 C52.0452979,108.094142 54.178232,104.540186 60.1566751,97.2044541" id="Path"></path>
+                        <path d="M393.400743,299.234444 C389.769326,307.372853 387.012413,312.116551 382.343448,319.617525" id="Path"></path>
+                        <path d="M47.9714475,117.773143 C52.6255904,109.857096 54.6562196,106.388266 60.3479102,99.2282459" id="Path"></path>
                     </g>
-                    <circle id="Oval" fill="#B8FF2B" cx="216.897083" cy="216.442443" r="161"></circle>
+                    <circle id="Oval" fill="#B8FF2B" cx="216.495891" cy="216.492456" r="158"></circle>
                 </g>
             </g>
         </g>
