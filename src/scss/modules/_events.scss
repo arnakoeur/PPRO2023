@@ -1,3 +1,76 @@
 .events-info {
   background-color: #b8ff2b;
 }
+
+.events-info {
+  padding: 90px 150px 90px 63px;
+}
+
+.events-title-big {
+  font-family: Teletactile;
+  font-weight: 100;
+  color: white;
+  font-size: 65px;
+  padding-bottom: 7px;
+  padding-left: 63px;
+  line-height: 60px;
+}
+
+.events-dots {
+  padding-left: 63px;
+  padding-bottom: 80px;
+}
+
+.events-title {
+  font-family: "Archivo", sans-serif;
+  font-weight: 400;
+  text-transform: uppercase;
+  color: #161616;
+  font-size: 40px;
+  padding-bottom: 25px;
+}
+
+.events-undertitle {
+  font-family: "Archivo", sans-serif;
+  font-weight: 100;
+  text-transform: uppercase;
+  font-size: 24px;
+  color: #5e8216;
+  padding-bottom: 30px;
+}
+
+.events-text {
+  font-family: "Archivo", sans-serif;
+  font-weight: 400;
+  color: #161616;
+  font-size: 24px;
+  line-height: 34px;
+  padding-bottom: 93px;
+}
+
+.events-button {
+  border: #5e8216 solid 1px;
+  font-family: "Archivo", sans-serif;
+  font-weight: 100;
+  text-transform: uppercase;
+  font-size: 17px;
+  color: #5e8216;
+  padding: 10px 20px;
+}
+
+.events-button-animation {
+  background-color: #b8ff2b;
+  color: #5e8216;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out;
+  border: #5e8216 solid 1px;
+}
+
+.events-button-animation:hover {
+  background-color: #5e2bff;
+  color: white;
+  border: #5e2bff solid 1px;
+}

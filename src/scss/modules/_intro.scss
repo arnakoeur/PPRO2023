@@ -2,14 +2,17 @@
   color: white;
   font-family: Teletactile;
   font-weight: 100;
-  font-size: 150px;
+  font-size: 165px;
   line-height: 140px;
   padding: 210px 0px 50px 54px;
 }
 
 .intro-round-title {
+  position: absolute;
   transform-origin: center;
   animation: changeRotation 20s linear infinite;
+  max-width: 370px;
+  top: 200px;
 }
 
 @keyframes changeRotation {
@@ -34,5 +37,6 @@
 }
 
 .intro-arrows {
-  padding: 90px 63px 185px 43px;
+  padding: 90px 0px 185px 0px;
+  max-width: 265px;
 }

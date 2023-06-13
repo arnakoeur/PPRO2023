@@ -1,3 +1,19 @@
 .tickets {
   background-color: #5e2bff;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding: 80px 520px;
+
+  img {
+    max-width: 35px;
+  }
+}
+
+.tickets-title {
+  font-family: Teletactile;
+  font-weight: 100;
+  color: white;
+  font-size: 40px;
 }
