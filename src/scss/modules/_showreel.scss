@@ -24,30 +24,55 @@
 }
 
 .showreel-container {
+  display: inline-block;
   position: relative;
+  text-decoration: none;
 }
 
 .showreel-link-animation {
-  transition: opacity 0.3s ease-in-out;
   opacity: 0.8;
+  transition: opacity 0.3s ease-in-out;
 }
 
 .showreel-link-animation:hover {
-  opacity: 0.2;
+  opacity: 0.3;
 }
 
-.showreel-container {
+.showreel-link {
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   color: white;
   text-decoration: none;
-  font-size: 18px;
-  opacity: 0.4;
+  font-size: 24px;
+  opacity: 0.5;
   transition: opacity 0.3s ease-in-out;
+  font-family: "Archivo", sans-serif;
+  font-weight: 100;
+  text-transform: uppercase;
+}
+
+.showreel-link::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -2px;
+  width: 100%;
+  height: 1px;
+  background-color: white;
+  transform: scaleX(0);
+  transition: transform 0.1s ease-in-out;
+}
+
+.showreel-container:hover .showreel-link::before {
+  transform: scaleX(1);
 }
 
 .showreel-container:hover .showreel-link {
   opacity: 1;
+}
+
+.showreel-container:hover .showreel-link-animation {
+  opacity: 0.3;
 }
