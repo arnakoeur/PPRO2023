@@ -1,5 +1,5 @@
-var menuTrigger = document.querySelector(".menu-trigger");
-var menu = document.querySelector(".nav-container");
+var menuTrigger = document.querySelector(".burger-menu-trigger");
+var menu = document.querySelector(".burger-nav-container");
 
 console.log(menu, menuTrigger);
 
