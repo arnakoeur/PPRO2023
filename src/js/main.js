@@ -1,9 +1,12 @@
-document.body.classList.add("loading");
+var menuTrigger = document.querySelector(".menu-trigger");
+var menu = document.querySelector(".nav-container");
 
-window.addEventListener("load", function () {
-  console.log("loaded");
+console.log(menu, menuTrigger);
+
+menuTrigger.addEventListener("click", () => {
+  menu.classList.toggle("burger-open");
 });
 
-setTimeout(function () {
-  document.body.classList.remove("loading");
-}, 2000);
+menu.addEventListener("click", () => {
+  menu.classList.toggle("burger-open");
+});

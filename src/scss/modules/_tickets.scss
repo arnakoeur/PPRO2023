@@ -1,7 +1,7 @@
 .tickets {
   background-color: #5e2bff;
   text-align: center;
-  padding: 80px 520px 70px;
+  padding: 80px 0px 70px;
 
   img {
     max-width: 35px;
@@ -32,5 +32,11 @@
 
   &.l-link-inter:hover:before {
     transform: scaleX(1);
+  }
+}
+
+@media (max-width: 1600px) {
+  .tickets-title {
+    font-size: 30px;
   }
 }

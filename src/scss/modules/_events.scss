@@ -15,6 +15,20 @@
   padding-left: 63px;
   line-height: 60px;
 }
+.events-bg {
+  background-image: url(/src/img/event-1.webp);
+  height: 100%;
+}
+
+.events-bg-2 {
+  background-image: url(/src/img/event-2.webp);
+  height: 100%;
+}
+
+.events-bg-3 {
+  background-image: url(/src/img/event-3.webp);
+  height: 100%;
+}
 
 .events-dots {
   padding-left: 63px;
@@ -73,4 +87,44 @@
   background-color: #5e2bff;
   color: white;
   border: #5e2bff solid 1.5px;
+}
+
+@media (max-width: 1830px) {
+  .events-title {
+    font-size: 35px;
+    padding-bottom: 25px;
+  }
+
+  .events-undertitle {
+    font-size: 20px;
+    padding-bottom: 30px;
+  }
+
+  .events-text {
+    font-size: 20px;
+    padding-bottom: 93px;
+  }
+}
+
+@media (max-width: 1600px) {
+  .events-info {
+    padding: 70px 130px 70px 63px;
+  }
+}
+
+@media (max-width: 1450px) {
+  .events-title {
+    font-size: 30px;
+    padding-bottom: 2%;
+  }
+
+  .events-undertitle {
+    font-size: 20px;
+    padding-bottom: 3%;
+  }
+
+  .events-text {
+    font-size: 20px;
+    padding-bottom: 11.5%;
+  }
 }

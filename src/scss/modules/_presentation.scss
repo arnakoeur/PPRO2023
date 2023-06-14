@@ -21,3 +21,48 @@
   color: white;
   font-size: 24px;
 }
+
+@media (max-width: 1830px) {
+  .presentation-info {
+    padding: 90px 128px 90px 63px;
+  }
+
+  .presentation-title {
+    font-size: 70px;
+    line-height: 60px;
+  }
+
+  .presentation-text {
+    font-size: 22px;
+  }
+}
+
+@media (max-width: 1600px) {
+  .presentation-info {
+    padding: 80px 148px 80px 63px;
+  }
+
+  .presentation-title {
+    font-size: 55px;
+    line-height: 50px;
+  }
+
+  .presentation-text {
+    font-size: 19px;
+  }
+}
+
+@media (max-width: 1450px) {
+  .presentation-info {
+    padding: 80px 118px 80px 63px;
+  }
+
+  .presentation-title {
+    font-size: 55px;
+    line-height: 50px;
+  }
+
+  .presentation-text {
+    font-size: 17px;
+  }
+}

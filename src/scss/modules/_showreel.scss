@@ -76,3 +76,28 @@
 .showreel-container:hover .showreel-link-animation {
   opacity: 0.3;
 }
+
+@media (max-width: 1830px) {
+  .showreel-title {
+    font-size: 140px;
+    line-height: 120px;
+  }
+}
+
+@media (max-width: 1600px) {
+  .showreel-title {
+    font-size: 130px;
+    line-height: 110px;
+  }
+}
+
+@media (max-width: 1450px) {
+  .showreel-title {
+    font-size: 120px;
+    line-height: 100px;
+  }
+
+  .showreel-info {
+    padding: 100px 70px 80px 63px;
+  }
+}

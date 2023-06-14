@@ -40,3 +40,18 @@
   padding: 90px 0px 185px 0px;
   max-width: 265px;
 }
+
+@media (max-width: 1550px) {
+  .intro-title {
+    font-size: 130px;
+    line-height: 110px;
+  }
+
+  .intro-round-title {
+    max-width: 270px;
+  }
+
+  .intro-arrows {
+    max-width: 210px;
+  }
+}

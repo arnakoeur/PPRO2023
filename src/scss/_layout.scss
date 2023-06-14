@@ -63,7 +63,7 @@
 
 .l-intro {
   padding-top: 115px;
-  padding-right: 03px;
+  padding-right: 0px;
 }
 
 .l-footer-social-title {
@@ -124,4 +124,30 @@
 
 .l-footer-copyright {
   color: #545454;
+}
+
+@media (max-width: 1600px) {
+  .l-footer-social-info {
+    font-size: 17px;
+  }
+
+  .l-footer-legal-info {
+    font-size: 7px;
+  }
+
+  .l-partners-eikon {
+    max-width: 60px;
+  }
+
+  .l-partners-frison {
+    max-width: 60px;
+  }
+
+  .l-partners-lotery {
+    max-width: 60px;
+  }
+
+  .l-partners-fribourg {
+    max-width: 60px;
+  }
 }
