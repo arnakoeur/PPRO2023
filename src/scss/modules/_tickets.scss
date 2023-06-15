@@ -14,12 +14,12 @@
   color: white;
   font-size: 40px;
 
-  &.l-link-inter {
+  &.link-inter {
     position: relative;
     text-decoration: none;
   }
 
-  &.l-link-inter:before {
+  &.link-inter:before {
     content: "";
     position: absolute;
     width: 100%;
@@ -30,7 +30,7 @@
     transition: transform 0.1s ease-in-out;
   }
 
-  &.l-link-inter:hover:before {
+  &.link-inter:hover:before {
     transform: scaleX(1);
   }
 }
