@@ -1,0 +1,75 @@
+.footer-social-title {
+  font-family: Teletactile;
+  font-weight: 100;
+  color: white;
+  font-size: 40px;
+  padding-bottom: 48px;
+}
+
+.footer-info {
+  padding: 100px 63px 20px 63px;
+  .no-padding {
+    padding: 0;
+  }
+}
+
+.footer-social-info {
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-family: "Archivo", sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.footer-legal-info {
+  color: white;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  font-family: "Archivo", sans-serif;
+  font-weight: 100;
+  font-size: 10px;
+}
+
+.footer-partners-title {
+  font-family: Teletactile;
+  font-weight: 100;
+  color: white;
+  font-size: 40px;
+  text-align: center;
+  padding-bottom: 40px;
+}
+
+.footer-copyright {
+  color: #545454;
+}
+
+@media (max-width: 1600px) {
+  .footer-social-info {
+    font-size: 17px;
+  }
+
+  .footer-legal-info {
+    font-size: 7px;
+  }
+
+  .l-partners-eikon {
+    max-width: 60px;
+  }
+
+  .l-partners-frison {
+    max-width: 60px;
+  }
+
+  .l-partners-lotery {
+    max-width: 60px;
+  }
+
+  .l-partners-fribourg {
+    max-width: 60px;
+  }
+}
