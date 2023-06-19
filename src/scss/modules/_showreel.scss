@@ -30,7 +30,7 @@
 }
 
 .showreel-link-animation {
-  opacity: 0.8;
+  opacity: 0.4;
   transition: opacity 0.3s ease-in-out;
 }
 
@@ -46,10 +46,10 @@
   color: white;
   text-decoration: none;
   font-size: 24px;
-  opacity: 0.5;
+  opacity: 1;
   transition: opacity 0.3s ease-in-out;
   font-family: "Archivo", sans-serif;
-  font-weight: 100;
+  font-weight: 400;
   text-transform: uppercase;
 }
 
@@ -72,7 +72,7 @@
 }
 
 .showreel-container:hover .showreel-link-animation {
-  opacity: 0.3;
+  opacity: 0.05;
 }
 
 @media (max-width: 1830px) {
